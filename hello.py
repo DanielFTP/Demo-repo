@@ -1,6 +1,9 @@
-x = 10
-y = 7
-print(x+y)
+from tkinter import W
+
+
+z = 5
+w = 6
+print(z+w)
 
 
 
