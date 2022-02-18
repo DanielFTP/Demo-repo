@@ -1,3 +1,5 @@
-x=3
-print(x+1)
+x = 3
+y = 7
+print(x+y)
+
 
