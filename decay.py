@@ -78,7 +78,7 @@ print("  chi2 / dof = %g / %d" % (chi2, len(count) - ddof))
 print("  p-value = %g" % p)
 
 # --------- Chi^2 test using scipy -----------------
-#print("chi^2 from scipy:")
+print("chi^2 from scipy:")
 
 # Call chisquare and print.
 
